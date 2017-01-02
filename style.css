@@ -1,0 +1,180 @@
+body{
+	margin: 0;
+}
+.container{
+
+	width:1200px;
+	margin: 0 auto;
+	overflow: hidden;
+	margin-bottom: -4px;
+}
+.head{
+	height: 100px;
+}
+
+	
+	/*logo style*/
+
+.logo{
+	float: left;
+	width:15%;
+	background: #00A3E9;
+
+}
+.logo img{
+
+	margin-left: 38px;
+	margin-top: 1px;
+}
+
+	
+	/*menu style*/
+
+.menu{
+	float: left;
+	width:30%;
+	background: #36608A;
+	height:105.5px;
+}
+.menu ul{
+
+}
+.menu ul li{
+	float: left;
+	list-style: none;
+	padding: 8px;
+	color: #fff;
+	font-size:27px;
+}
+
+
+
+	/*socail_logo style*/
+
+.socail_logo{
+
+	background:#25B14E;
+	width:30%;
+	float: left;
+	height: 105.5px;
+}
+.socail_logo img{
+	margin-top: 20px;
+	margin-left: 25px;
+
+}
+
+
+
+	/*contact style*/
+	
+.contact{
+	background: #366089;
+	height: 105.5px;
+	color: #fff;
+	text-align: center;
+
+}
+
+.contact p{
+
+	margin-top: 10px;
+}
+  
+	/*slider image*/
+
+.slider_images{
+	float: left;
+	width: 33%;
+}
+
+.slider_images img{
+	
+}
+
+
+	/* content */
+
+.content{
+
+	width:54%;
+	height: 273px;
+	float: left;
+	background: #FF7F26;
+	text-align: center;
+	font-family:arial;
+	
+}
+
+.content p{
+
+	margin-top: 0px;
+	padding: 5px;
+	font-size: 18px;
+	color: #fff;
+}
+
+.content h2{
+
+	color: #59E7FD;
+}
+
+.content_right{
+
+	width: 13%;
+	float: left;
+	background: #173068;
+	color: #6AC62E;
+
+}
+
+
+.content_right li{
+	margin-left: 21px;
+} 
+
+.content_right h3{
+	text-align: center;
+	color: #3192F1;
+}
+
+
+	
+	/* footer */
+
+.footer{
+	
+	
+}
+
+.footer_left{
+
+	background: #7F7F7F;
+	width: 40%;
+	float: left;
+	height: 122px;
+	text-align: center;
+	color: #fff;
+
+}
+
+.footer_left p{
+	
+	margin-top: 63px;
+}
+
+.footer_right{
+
+	float: left;
+	width: 43%;
+	background: #0E7700;
+	color: #fff;
+}
+
+.footer_right_last{
+	width: 17%;
+	float: left;
+	background: #24B04D;
+	height: 122px;
+	text-align: center;
+}
